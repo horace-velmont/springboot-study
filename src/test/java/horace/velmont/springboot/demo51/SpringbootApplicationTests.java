@@ -1,4 +1,4 @@
-package horace.velmont.springboot;
+package horace.velmont.springboot.demo51;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
